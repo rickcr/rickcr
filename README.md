@@ -1,16 +1,19 @@
-## Hi there 👋
+Hi, I’m Rick 👋
 
-<!--
-**rickcr/rickcr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Senior Software Engineer focused on building high-performance distributed systems and secure cloud-native architecture. 
 
-Here are some ideas to get you started:
+### 🛠 Technical Toolkit
+- **Languages:** Go, Java
+- **Backend:** Spring Boot, MyBatis, gRPC
+- **Infrastructure:** Kubernetes, Docker, Linux, CI/CD
+- **Data:** Snowflake, SQL 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔭 Professional Focus
+I specialize in the intersection of **performance** and **security**. My work often involves:
+- Architecting low-latency microservices in **Go** and **gRPC**.
+- Building and maintaining robust enterprise systems with **Java/Spring**.
+- Orchestrating scalable, containerized environments within **Kubernetes**.
+- Operating within high-security, strictly regulated environments.
+
+### 📫 Connect with me
+- [LinkedIn](https://linkedin.com/rickcr) 
