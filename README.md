@@ -16,4 +16,4 @@ I specialize in the intersection of **performance** and **security**. My work of
 - Operating within high-security, strictly regulated environments.
 
 ### 📫 Connect with me
-- [LinkedIn](https://linkedin.com/rickcr) 
+- [LinkedIn]([https://linkedin.com/rickcr](https://www.linkedin.com/in/rickcr/)) 
